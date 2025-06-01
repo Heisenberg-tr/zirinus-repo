@@ -1,0 +1,12 @@
+{
+  "1.1.0" : {
+    "release_date" : "2025",
+    "stable_preloader_implementation" : 1,
+    "name" : "Zirinus",
+    "description" : "<put raw github  link here"
+  },
+
+  "1.0.0" : {
+    "release_date"
+  }
+}

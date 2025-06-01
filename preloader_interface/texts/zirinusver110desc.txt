@@ -1,0 +1,7 @@
+I came back to development after a very long 2 year break to cure my idleness.
+Motto of this update was build a core to deliver updates rapidly but not fixing bugs or adding new features.
+I came to a realization that I was never a good Python developer that I thought I was in the past.
+
+This update is a requiem for me. A revival of forgotten memories. 2 years passed like nothing and I didnt even learn new skills.
+
+Welcome back master!
