@@ -1,0 +1,3 @@
+All of source code was rewritten in this update and all of ASCII arts.
+I rewrited Zirinus in past to make it look more modern and up-to-date.
+This update also promotes more advanced webhook customization.
