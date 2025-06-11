@@ -1,0 +1,31 @@
+{
+  "1.1.0" : {
+    "release_date" : "2025",
+    "stable_preloader_implementation" : 1,
+    "name" : "Zirinus"
+  },
+
+  "1.0.0" : {
+    "release_date" : "2023/3/18",
+    "stable_preloader_implementation" : 0,
+    "name" : "Zirinus"
+  },
+
+  "0.9.0" : {
+    "release_date" : "2023/3/11",
+    "stable_preloader_implementation" : 0,
+    "name" : "Zirinus Legacy"
+  },
+
+  "0.8.0" : {
+    "release_date" : "2023/1/25",
+    "stable_preloader_implementation" : 0,
+    "name" : "Zirinus Legacy"
+  },
+
+  "0.7.0" : {
+    "release_date" : "2023/1/25",
+    "stable_preloader_implementation" : 0,
+    "name" : "Zirinus Legacy"
+  }
+}
